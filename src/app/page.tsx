@@ -6,9 +6,12 @@ export default function Home() {
 
 
       <div className="">
-      <a className=" underline underline-offset-1 " href="https://www.glab.vn/product?word=Easybadwork">
-      <img src="/images/ebwphone.png" className={styles.imagePhone}/>
-      <img src="/images/ebw.png" className={styles.image}/>
+      {/* <a className=" underline underline-offset-1 " href="https://www.glab.vn/product?word=Easybadwork"> */}
+      <a className=" underline underline-offset-1 " href="https://docs.google.com/forms/d/1OGWPOlc3oDcNkCqtursWysbMWsZjI3btxOD8W46444I/viewform?edit_requested=true">
+      {/* <img src="/images/ebwphone.png" className={styles.imagePhone}/>
+      <img src="/images/ebw.png" className={styles.image}/> */}
+       <img src="/images/newitem.jpg" className={styles.image}/>
+
       </a>
    
       </div>
