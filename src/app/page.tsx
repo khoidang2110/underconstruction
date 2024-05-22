@@ -11,6 +11,7 @@ export default function Home() {
       {/* <img src="/images/ebwphone.png" className={styles.imagePhone}/>
       <img src="/images/ebw.png" className={styles.image}/> */}
        <img src="/images/newitem.jpg" className={styles.image}/>
+       <img src="/images/newitemmin.jpg" className={styles.imagePhone}/>
 
       </a>
    
